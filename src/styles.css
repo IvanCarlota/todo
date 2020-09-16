@@ -9,13 +9,13 @@ body{
 
 
     /* Se estiver no Browser que não permite Gradiente será usada a cor sólida abaixo. */
-    background: #3023ae;
+    background: aqua;
     /* Se estiver no Mozila FireFox será usa as cores abaixo com Gradiente */
-    background: -moz-linear-gradient(60deg, #3023ae 0%, #c86dd7 100%);
+    background: -moz-linear-gradient(60deg, aqua 0%, #c86dd7 100%);
     /* Se estiver no Google Chrome ou Microft Edge será usa as cores abaixo com Gradiente */
-    background: -webkit-linear-gradient(60deg, #3023ae 0%, #c86dd7 100%);
+    background: -webkit-linear-gradient(60deg,aqua 0%, #c86dd7 100%);
     /* Se estiver em um Cross Browser será usa as cores abaixo com Gradiente */
-    background: linear-gradient(60deg, #3023ae 0%, #c86dd7 100%);
+    background: linear-gradient(60deg, aqua 0%, #c86dd7 100%);
 
     /* Se estiver no Microsoft Explore (Aquele Browser antigo) será usa as cores abaixo com Gradiente */
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3023ae', endColorstr='#c86dd7', GradientType=1);
@@ -92,7 +92,7 @@ li>button:hover {
 }
 
 input{
-    width: 100%;
+    width: 98%;
     line-height: 50px;
     text-indent: 10px;
     font-size: 1.2em;
