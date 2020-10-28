@@ -5,11 +5,11 @@ This is my first project made with Angular :)
 
 Here are the technologies used in this project.
 
-HTML5
-CSS3
-Javascript
-Typescript
-Angular
+HTML5,
+CSS3,
+Javascript,
+Typescript,
+Angular.
 
 # Todo
 
@@ -47,10 +47,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 **home page**
 ![Initial page](https://github.com/IvanCarlota/todo/blob/master/images/public/readme/1.png)
 
-**Brazil**
+**Input of data**
 ![Initial page](https://github.com/IvanCarlota/todo/blob/master/images/public/readme/2.png)
 
-**International**
+**Get of data**
 ![Initial page](https://github.com/IvanCarlota/todo/blob/master/images/public/readme/3.png)
 
 ## Links
